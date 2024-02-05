@@ -1,0 +1,1 @@
+CSL styles in this repository adapt the original work of Patrick O'Brien: https://github.com/citation-style-language/styles/blob/master/harvard-cite-them-right.csl

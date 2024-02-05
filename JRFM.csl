@@ -1,4 +1,3 @@
-<!--This code adapts the work of Patrick O'Brien: https://github.com/citation-style-language/styles/blob/master/harvard-cite-them-right.csl-->
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="chicago" default-locale="en-GB">
   <info>
@@ -35,7 +34,7 @@
           <if variable="container-author" match="none">
             <names variable="editor translator" delimiter="/">
               <name delimiter="/" sort-separator=", " name-as-sort-order="all"/>
-              <label form="short" prefix=" (" suffix=")"/>
+              <label form="short" prefix=" (" suffix="),"/>
             </names>
           </if>
         </choose>
@@ -312,8 +311,8 @@
         <text macro="secondary-contributors"/>
         <text macro="publisher"/>
       </group>
+      <text macro="locator" prefix=" "/>
       <group delimiter=", " prefix=", ">
-        <text macro="locator"/>
         <text macro="published-date"/>
         <text macro="pages"/>
       </group>
