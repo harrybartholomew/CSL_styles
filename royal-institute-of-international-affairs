@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style
-  xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="chicago" default-locale="en-GB">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="chicago" default-locale="en-GB">
   <info>
-    <title>Chatham House</title>
+    <title>Royal Institute of International Affairs (Chatham House)</title>
     <title-short>Chatham House</title-short>
-    <id>http://www.zotero.org/styles/chatham-house</id>
+    <id>http://www.zotero.org/styles/royal-institute-of-international-affairs</id>
     <author>
       <name>Harry Bartholomew</name>
-      <uri>https://orcid.org/0009-0007-5527-6062</uri>
+      <uri>http://orcid.org/0009-0007-5527-6062</uri>
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
+    <link href="http://www.zotero.org/styles/royal-institute-of-international-affairs" rel="self"/>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2024-11-08T14:59:00+00:00</updated>
   </info>
   <locale xml:lang="en-GB">
